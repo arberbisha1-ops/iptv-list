@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, Kanal 1
+http://digitvott1.tvct.net:80/ZDAPYCQUHR/PKK2ZDM1A1/1732751
+
+#EXTINF:-1, Kanal 2
+http://digitvott1.tvct.net:80/ZDAPYCQUHR/PKK2ZDM1A1/1732750
+
+#EXTINF:-1, Kanal 3
+http://digitvott1.tvct.net:80/ZDAPYCQUHR/PKK2ZDM1A1/3633
+
+#EXTINF:-1, Kanal 4
+http://digitvott1.tvct.net:80
